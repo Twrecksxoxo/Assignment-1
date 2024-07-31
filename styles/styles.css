@@ -1,0 +1,640 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+
+
+    width: 1536px;
+    height: 600px;
+    background-image: url("../Hero-bg.png");
+}
+.pic{
+    margin-bottom: 20px;
+}
+.btn{
+    border-radius: 8px;
+
+background: rgb(13, 19, 33);
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 18px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+padding: 13px 13px 13px 13px;
+}
+.title{
+    margin-bottom: 20px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 40px;
+font-weight: 800;
+line-height: 68px;
+letter-spacing: 0%;
+text-align: center;
+}
+.subtitle{
+    margin-bottom: 20px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+
+}
+.info-container{
+    text-align: center;
+    display: inline-block;
+    justify-content:center;
+    width: 700px;
+    height: 500px;
+    align-items: center;
+    margin-left: 350px;
+    margin-top: 40px;
+    
+}
+.basic-info{
+    margin-top: 110px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.basic-info h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 20px;
+}
+.basic-info p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+
+}
+.reason-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+    background:linear-gradient( rgb(255, 255, 255),
+    rgba(255, 255, 255, 0));
+    width: 950px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+.data{
+    margin-left: 50px;
+    /* text-align: center; */
+}
+.data h1{
+    margin-bottom: 20px;
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+.data p{
+    margin-bottom: 30px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+
+}
+.data button{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 15px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+padding: 12px 25px 12px 25px;
+
+
+}
+.image1{
+    margin-top: 20px;
+    margin-right: 30px;
+}
+
+.reason-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+    background:linear-gradient( rgb(255, 255, 255),
+    rgba(255, 255, 255, 0));
+    width: 950px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+.reason-2 .data{
+    margin-right: 230px;
+}
+.page-2{
+    background-color: rgba(13, 19, 33, 0.02);
+}
+.intro{
+    margin-top: 100px;
+    text-align: center;
+}
+.intro h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 21px;
+}
+.intro p{
+    
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 48px;
+opacity: 0.7;
+
+
+}
+.page-3{
+    text-align: center;
+    width: 1500px;
+    align-items: center;
+}
+.page-3 iframe{
+    border-radius: 16px;
+    padding: 32px;
+}
+.intro{
+    margin-bottom: 20px;
+}
+.video{
+    margin-left: 200px;
+    width: 1100px;
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+
+}
+.cards{
+    margin-left: 200px;
+    margin-top: 100px;
+    display: flex;
+    
+}
+.html{
+   background-color: rgba(255, 76, 30, 0.05);
+   width: 360px;
+   height: 360px;
+}
+.Css{
+    background-color: rgba(0, 76, 232, 0.05);
+    width: 360px;
+    height: 360px;
+}
+.js{
+    background-color: rgba(255, 223, 0, 0.05);
+    width: 360px;
+    height: 360px;
+}
+.html{
+    border-radius: 16px;
+    margin-right: 24px;
+}
+.html img{
+    width: 56px;
+    height: 56px;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 24px;
+}
+.html h1{
+    margin-left: 40px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 10px;
+}
+.html p{
+    margin-left: 40px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 24px;
+opacity: 0.7;
+
+}
+.html a{
+    margin-left: 40px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+
+}
+
+.Css{
+    border-radius: 16px;
+    margin-right: 24px;
+}
+.Css img{
+    width: 56px;
+    height: 56px;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 24px;
+}
+.Css h1{
+    margin-left: 40px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 10px;
+}
+.Css p{
+    margin-left: 40px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 24px;
+opacity: 0.7;
+
+}
+.Css a{
+    margin-left: 40px;                     
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+
+}
+
+.js{
+    border-radius: 16px;
+    margin-right: 24px;
+}
+.js img{
+    width: 56px;
+    height: 56px;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 24px;
+}
+.js h1{
+    margin-left: 40px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 10px;
+}
+.js p{
+    margin-left: 40px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 24px;
+opacity: 0.7;
+
+}
+.js a{
+    margin-left: 40px;                     
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+
+}
+.React{
+    
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+    margin-bottom: 24px;
+    width: 1140px;
+    height:219px;
+
+    box-sizing: border-box;
+border: 2px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+.Node{
+    
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+    margin-bottom: 24px;
+    width: 1140px;
+    height:219px;
+
+    box-sizing: border-box;
+border: 2px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+
+}
+.Mongo{
+    margin-bottom: 44px;
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+    width: 1140px;
+    height:219px;
+
+    box-sizing: border-box;
+border: 2px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+
+
+
+.React .symbol{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 24px;
+    margin-left: 40px;
+
+}
+.Node .symbol{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 24px;
+    margin-left: 40px;
+}
+.Mongo .symbol{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 24px;
+    margin-left: 40px;
+}
+
+.React h1{
+    
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 10px;
+}
+.Node h1{
+    
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 10px;
+}
+.Mongo h1{
+    
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 10px;
+}
+.React p{
+    
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 24px;
+opacity: 0.7;
+
+}
+.Node p{
+    
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 24px;
+opacity: 0.7;
+
+}
+.Mongo p{
+    
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 24px;
+opacity: 0.7;
+
+}
+.React a{
+                         
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+
+}
+.Node a{
+                        
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+
+}
+.Mongo a{
+                       
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+
+}
+.page-6{
+    margin-top: 50px;
+    background: url("../handshake.jpg");
+    background-position:center;
+    background-size: cover;
+    
+    margin-left: 200px;
+    width: 1140px ;
+    height: 320px;
+
+    border-radius: 16px;
+
+    background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+
+}
+.page-6 h1{
+    margin-left: 450px;
+    margin-bottom: 30px;
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+/* text-align: center; */
+}
+.page-6 p{
+    margin-left: 350px;
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+opacity: 0.7;
+
+/* text-align: center; */
+
+}
+.page-6 .lnk{
+    margin-top: 50px;
+    margin-left: 200px;
+    display: flex;
+}
+.page-6 input{
+    padding-left: 30px;
+    margin-right: 16px;
+    width: 550px;
+    height: 50px;
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+
+background: rgb(255, 255, 255);
+}
+.page-6 button{
+    width: 120px;
+    height: 50px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+    border-radius: 8px;
+
+background: rgb(255, 255, 255);
+
+}
+.page-7{
+    height: 100px;
+    
+    margin-top: 150px;
+    display: flex;
+
+    border-radius: 16px;
+
+background: rgba(13, 19, 33, 0.03);
+}
+.page-7 h1{
+    margin-top: 40px;
+    margin-left:200px ;
+}
+.page-7 div{
+    margin-top: 40px;
+    margin-left: 600px;
+}
+.page-7 a{
+    margin-right: 7px;
+}
